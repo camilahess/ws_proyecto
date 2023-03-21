@@ -1,0 +1,1173 @@
+2023-03-14 09:55:30,604 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-14 09:56:03,001 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ecommerce:0.0.1-SNAPSHOT @ /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/pom.xml.
+2023-03-14 09:56:03,538 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-14 09:56:03,548 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-14 09:56:03,551 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-14 09:56:04,040 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ecommerce:0.0.1-SNAPSHOT @ /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/pom.xml.
+2023-03-14 09:56:04,893 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-14 09:56:04,900 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-14 09:56:04,902 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-14 09:56:37,179 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-14 09:56:37,180 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-14 09:56:37,182 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-14 09:57:18,318 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-14 09:57:18,319 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-14 09:57:18,320 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-14 13:06:00,421 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-14 13:22:24,139 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-16 11:29:28,261 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-16 11:46:33,030 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-16 12:48:15,975 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:48:15,989 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:48:15,992 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 12:49:36,785 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:49:36,844 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:49:36,846 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 12:52:25,293 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:52:25,325 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:52:25,327 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 12:52:57,535 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:52:57,610 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:52:57,612 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 12:53:20,912 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:53:20,918 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:53:20,919 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 12:53:58,124 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:53:58,156 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:53:58,159 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 12:57:25,195 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:57:25,207 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:57:25,211 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 12:57:33,415 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:57:33,472 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:57:33,476 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 12:58:19,580 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:58:19,588 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:58:19,590 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 12:58:29,369 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:58:29,373 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:58:29,375 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:00:06,271 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:00:06,280 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:00:06,282 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:00:22,281 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:00:22,286 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:00:22,288 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:00:28,166 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:00:28,174 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:00:28,176 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:12:52,084 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:12:52,111 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:12:52,115 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:12:59,244 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:12:59,293 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:12:59,296 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:13:06,928 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:13:06,983 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:13:06,986 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:13:18,926 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:13:18,934 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:13:18,936 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:13:29,221 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:13:29,231 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:13:29,233 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:13:37,041 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:13:37,058 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:13:37,063 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:13:57,932 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:13:57,938 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:13:57,940 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:14:04,883 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:14:04,889 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:14:04,890 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:14:55,886 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:14:55,899 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:14:55,900 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:15:00,555 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:15:00,567 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:15:00,568 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:16:09,037 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:16:09,049 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:16:09,050 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:20:35,746 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:20:35,757 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:20:35,759 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:21:19,751 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:21:19,760 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:21:19,761 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:23:57,565 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:23:57,571 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:23:57,572 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:24:18,906 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:24:18,913 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:24:18,915 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:24:27,225 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:24:27,230 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:24:27,232 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:25:13,798 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:25:13,803 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:25:13,804 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:26:16,229 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:26:16,248 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:26:16,250 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:27:22,236 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:27:22,242 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:27:22,243 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:28:13,530 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:28:13,546 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:28:13,549 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:28:53,323 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:28:53,330 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:28:53,331 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:30:43,103 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:30:43,111 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:30:43,113 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:31:10,120 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:31:10,128 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:31:10,130 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:31:38,572 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:31:38,583 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:31:38,585 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:32:20,817 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:32:20,826 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:32:20,827 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:32:32,741 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:32:32,749 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:32:32,750 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:32:51,570 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:32:51,602 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:32:51,607 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:33:14,301 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:33:14,308 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:33:14,310 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:34:25,151 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:34:25,171 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:34:25,173 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:34:28,218 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:34:28,222 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:34:28,223 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:35:46,402 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:35:46,407 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:35:46,409 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:35:50,407 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:35:50,408 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:35:50,409 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:35:56,712 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:35:56,732 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:35:56,734 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:38:44,909 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:38:44,914 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:38:44,918 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:52:06,350 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:52:06,356 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:52:06,357 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:52:37,471 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:52:37,475 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:52:37,476 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:52:58,153 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:52:58,157 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:52:58,159 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:53:03,898 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:53:03,912 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:53:03,914 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:54:28,678 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:54:28,683 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:54:28,684 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:54:49,041 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:54:49,055 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:54:49,058 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:55:24,888 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:55:24,892 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:55:24,894 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:55:38,606 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:55:38,618 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:55:38,620 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:56:33,359 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:56:33,367 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:56:33,370 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:56:45,875 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:56:45,880 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:56:45,882 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:57:20,303 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:57:20,309 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:57:20,311 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:57:23,426 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:57:23,435 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:57:23,439 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:57:57,191 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:57:57,196 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:57:57,197 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:58:06,883 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:58:06,893 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:58:06,894 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:58:20,703 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:58:20,709 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:58:20,710 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:58:40,962 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:58:40,974 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:58:40,975 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:59:36,476 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:59:36,482 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:59:36,483 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:59:49,306 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:59:49,311 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:59:49,312 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:59:53,459 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:59:53,464 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:59:53,466 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 13:59:57,016 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:59:57,025 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:59:57,026 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 14:02:08,396 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 14:02:08,402 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 14:02:08,403 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 14:02:20,200 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 14:02:20,210 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 14:02:20,211 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 14:03:35,412 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 14:03:35,416 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 14:03:35,418 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 14:03:42,088 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 14:03:42,095 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 14:03:42,097 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 14:04:06,864 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 14:04:06,870 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 14:04:06,871 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 14:05:02,168 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 14:05:02,174 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 14:05:02,177 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 14:06:44,537 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 14:06:44,556 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 14:06:44,558 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 14:12:06,605 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 14:12:06,611 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 14:12:06,615 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 14:15:03,661 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 14:15:03,672 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 14:15:03,674 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 14:17:12,540 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 14:17:12,558 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 14:17:12,560 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 14:17:31,264 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 14:17:31,280 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 14:17:31,283 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 14:18:04,116 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 14:18:04,123 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 14:18:04,125 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 14:18:36,183 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 14:18:36,198 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 14:18:36,199 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 14:27:18,225 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 14:27:18,232 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 14:27:18,234 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 14:29:46,776 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 14:29:46,782 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 14:29:46,784 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 14:30:47,533 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-16 14:31:37,927 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ecommerce:0.0.1-SNAPSHOT @ /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/pom.xml.
+2023-03-16 14:31:38,125 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 14:31:38,139 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 14:31:38,141 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 14:31:39,292 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/3.0.4/spring-boot-starter-actuator-3.0.4-sources.jar
+2023-03-16 14:31:39,345 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/3.0.4/spring-boot-starter-actuator-3.0.4-sources.jar
+2023-03-16 14:31:39,348 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-actuator:3.0.4
+2023-03-16 14:31:39,466 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 14:31:39,468 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/3.0.4/spring-boot-actuator-autoconfigure-3.0.4-sources.jar
+2023-03-16 14:31:39,472 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 14:31:39,473 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 14:31:39,615 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/3.0.4/spring-boot-actuator-autoconfigure-3.0.4-sources.jar
+2023-03-16 14:31:39,615 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-actuator-autoconfigure:3.0.4
+2023-03-16 14:31:39,733 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/3.0.4/spring-boot-actuator-3.0.4-sources.jar
+2023-03-16 14:31:39,890 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/3.0.4/spring-boot-actuator-3.0.4-sources.jar
+2023-03-16 14:31:39,891 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-actuator:3.0.4
+2023-03-16 14:31:40,081 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.10.4/micrometer-core-1.10.4-sources.jar
+2023-03-16 14:31:40,240 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.10.4/micrometer-core-1.10.4-sources.jar
+2023-03-16 14:31:40,241 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.micrometer:micrometer-core:1.10.4
+2023-03-16 14:31:40,595 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 14:31:40,595 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 14:31:40,596 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 15:39:01,870 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-16 15:42:57,981 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 15:42:58,035 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 15:42:58,038 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 15:46:02,230 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-16 15:46:25,465 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ecommerce:0.0.1-SNAPSHOT @ /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/pom.xml.
+2023-03-16 15:46:25,653 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 15:46:25,670 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 15:46:25,674 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 15:47:00,825 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ecommerce:0.0.1-SNAPSHOT @ /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/pom.xml.
+2023-03-16 15:47:00,964 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 15:47:00,964 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 15:47:00,966 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 15:50:55,224 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 15:50:55,244 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 15:50:55,246 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 15:50:58,432 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 15:50:58,436 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 15:50:58,437 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 15:51:18,661 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 15:51:18,664 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 15:51:18,665 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 15:51:30,553 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 15:51:30,563 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 15:51:30,566 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 15:51:33,628 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 15:51:33,634 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 15:51:33,635 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 15:51:39,623 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 15:51:39,634 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 15:51:39,636 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:11:20,798 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:11:20,802 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:11:20,803 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:12:28,320 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:12:28,322 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:12:28,323 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:13:42,838 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:13:42,854 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:13:42,857 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:13:56,676 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:13:56,684 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:13:56,686 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:14:06,595 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:14:06,602 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:14:06,604 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:14:14,738 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:14:14,759 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:14:14,761 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:14:52,532 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:14:52,541 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:14:52,549 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:15:13,664 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:15:13,672 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:15:13,677 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:15:19,133 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:15:19,139 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:15:19,143 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:15:43,868 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:15:43,873 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:15:43,875 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:17:24,433 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:17:24,439 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:17:24,440 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:17:50,782 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:17:50,787 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:17:50,789 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:19:18,865 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:19:18,872 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:19:18,874 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:19:43,962 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:19:43,976 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:19:43,977 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:19:55,727 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:19:55,730 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:19:55,731 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:21:10,604 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:21:10,609 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:21:10,610 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:21:15,226 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:21:15,232 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:21:15,233 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:21:39,439 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:21:39,446 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:21:39,449 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:21:46,582 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:21:46,591 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:21:46,593 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:21:56,480 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:21:56,489 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:21:56,491 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:23:22,175 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-16 16:24:55,644 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:24:55,653 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:24:55,655 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:25:12,386 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:25:12,388 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:25:12,390 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:26:11,749 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-16 16:36:38,603 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:36:38,699 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:36:38,701 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:36:42,782 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:36:42,790 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:36:42,792 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:36:47,061 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:36:47,103 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:36:47,105 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:36:51,025 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:36:51,091 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:36:51,095 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:36:54,157 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:36:54,177 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:36:54,178 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:37:01,273 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:37:01,278 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:37:01,279 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:38:09,909 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:38:09,913 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:38:09,915 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:38:22,428 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:38:22,433 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:38:22,435 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:38:47,962 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:38:47,976 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:38:47,977 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:39:06,733 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:39:06,738 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:39:06,739 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:39:28,638 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:39:28,644 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:39:28,651 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:39:38,628 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:39:38,634 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:39:38,636 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:39:48,102 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:39:48,108 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:39:48,110 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:39:54,834 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:39:54,837 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:39:54,839 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:43:37,451 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:43:37,459 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:43:37,461 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:43:57,890 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:43:57,901 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:43:57,903 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:45:33,461 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:45:33,466 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:45:33,467 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:45:39,986 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:45:39,990 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:45:39,991 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:45:53,167 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:45:53,184 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:45:53,185 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:45:55,232 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:45:55,241 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:45:55,243 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:46:01,019 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:46:01,026 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:46:01,028 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:46:18,323 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:46:18,329 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:46:18,330 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:46:22,914 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:46:22,936 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:46:22,938 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:46:30,481 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:46:30,485 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:46:30,486 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-16 16:46:41,469 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 16:46:41,476 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 16:46:41,477 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 11:28:14,051 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-17 11:44:01,880 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:44:01,909 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:44:01,912 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 11:45:29,797 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:45:29,803 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:45:29,804 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 11:47:18,596 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:47:18,604 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:47:18,605 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 11:47:50,271 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:47:50,278 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:47:50,280 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 11:51:06,101 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:51:06,107 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:51:06,108 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 11:51:13,321 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:51:13,324 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:51:13,325 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:01:44,855 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:01:44,860 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:01:44,861 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:01:54,596 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:01:54,610 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:01:54,613 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:06:55,847 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:06:55,851 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:06:55,853 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:17:13,454 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:17:13,486 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:17:13,487 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:20:15,456 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:20:15,460 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:20:15,465 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:20:20,286 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:20:20,303 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:20:20,305 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:31:05,151 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:31:05,157 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:31:05,159 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:31:55,212 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:31:55,227 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:31:55,229 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:31:57,256 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:31:57,265 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:31:57,268 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:34:00,877 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:34:00,883 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:34:00,885 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:34:12,024 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:34:12,036 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:34:12,038 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:34:30,123 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:34:30,127 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:34:30,128 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:34:37,401 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:34:37,426 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:34:37,427 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:35:02,796 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:35:02,802 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:35:02,805 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:35:40,514 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:35:40,519 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:35:40,520 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:39:31,336 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:39:31,342 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:39:31,344 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:39:54,884 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:39:54,890 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:39:54,892 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:40:10,262 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:40:10,266 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:40:10,268 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:40:30,226 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:40:30,240 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:40:30,242 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:40:56,364 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:40:56,371 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:40:56,376 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:45:29,104 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:45:29,110 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:45:29,112 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:45:52,146 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:45:52,161 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:45:52,162 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:46:33,336 [Worker-63: Launching EcommerceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:46:33,361 [Worker-63: Launching EcommerceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:46:33,363 [Worker-63: Launching EcommerceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:48:37,859 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:48:37,865 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:48:37,867 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:48:46,500 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:48:46,505 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:48:46,506 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:48:50,104 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:48:50,114 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:48:50,117 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:49:58,804 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:49:58,827 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:49:58,830 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:52:35,019 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:52:35,025 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:52:35,026 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:53:19,609 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:53:19,691 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:53:19,692 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:53:46,358 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:53:46,363 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:53:46,365 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:54:21,489 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:54:21,494 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:54:21,495 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:55:29,228 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:55:29,236 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:55:29,236 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:56:06,774 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 12:56:06,790 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 12:56:06,791 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 12:59:43,044 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-17 13:00:15,564 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 13:00:15,581 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 13:00:15,583 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 13:00:21,766 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 13:00:21,776 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 13:00:21,778 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 13:09:27,270 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 13:09:27,276 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 13:09:27,277 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 13:11:37,729 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 13:11:37,743 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 13:11:37,744 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 13:13:10,894 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 13:13:10,914 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 13:13:10,916 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 13:19:56,891 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 13:19:56,912 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 13:19:56,914 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 13:20:50,756 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 13:20:50,776 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 13:20:50,778 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 13:49:04,064 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 13:49:04,088 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 13:49:04,093 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 15:58:31,060 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 15:58:31,137 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 15:58:31,138 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 15:59:42,517 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 15:59:42,525 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 15:59:42,527 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 16:00:48,272 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 16:00:48,279 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 16:00:48,287 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 16:01:04,049 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 16:01:04,055 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 16:01:04,056 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 16:01:23,497 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 16:01:23,503 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 16:01:23,505 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 16:01:41,859 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 16:01:41,863 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 16:01:41,864 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 16:02:08,876 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 16:02:08,884 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 16:02:08,885 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 16:02:49,296 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 16:02:49,300 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 16:02:49,302 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 16:03:05,725 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 16:03:05,733 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 16:03:05,734 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 16:05:30,192 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 16:05:30,197 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 16:05:30,198 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-17 16:07:41,144 [Worker-55: Launching EcommerceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 16:07:41,151 [Worker-55: Launching EcommerceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 16:07:41,154 [Worker-55: Launching EcommerceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-18 13:36:55,385 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-19 16:04:05,980 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-19 16:15:18,962 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:15:18,995 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:15:18,999 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:18:26,310 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:18:26,317 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:18:26,319 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:19:26,682 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:19:26,726 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:19:26,729 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:20:24,143 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:20:24,158 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:20:24,160 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:21:00,386 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:21:00,397 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:21:00,398 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:22:03,826 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:22:03,831 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:22:03,833 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:22:14,943 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:22:14,946 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:22:14,947 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:22:50,921 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:22:50,924 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:22:50,926 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:23:10,562 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:23:10,567 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:23:10,568 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:23:26,518 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:23:26,522 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:23:26,526 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:24:21,565 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:24:21,573 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:24:21,575 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:24:51,309 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:24:51,317 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:24:51,319 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:25:48,425 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:25:48,430 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:25:48,431 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:26:06,533 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:26:06,539 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:26:06,542 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:26:16,308 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:26:16,320 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:26:16,323 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:26:32,670 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:26:32,679 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:26:32,681 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:27:07,407 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:27:07,412 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:27:07,413 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:27:30,493 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:27:30,498 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:27:30,500 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:27:54,528 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:27:54,536 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:27:54,538 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:28:42,262 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:28:42,268 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:28:42,270 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:29:25,487 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:29:25,496 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:29:25,501 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:38:21,786 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:38:21,793 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:38:21,795 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:53:04,258 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:53:04,283 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:53:04,285 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:58:06,259 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:58:06,264 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:58:06,266 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 16:59:12,749 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 16:59:12,762 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 16:59:12,764 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:03:58,543 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:03:58,553 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:03:58,555 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:06:19,392 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:06:19,398 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:06:19,400 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:08:33,653 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:08:33,659 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:08:33,660 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:09:29,025 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:09:29,033 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:09:29,034 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:21:11,198 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:21:11,206 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:21:11,207 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:21:19,267 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:21:19,273 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:21:19,275 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:22:56,138 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:22:56,143 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:22:56,144 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:23:11,579 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:23:11,584 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:23:11,586 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:23:49,567 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:23:49,573 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:23:49,574 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:37:18,714 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:37:18,721 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:37:18,723 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:42:31,876 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:42:31,881 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:42:31,882 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:45:14,116 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:45:14,122 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:45:14,124 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:48:53,352 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:48:53,358 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:48:53,360 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:49:05,448 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:49:05,455 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:49:05,457 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:49:17,293 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:49:17,296 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:49:17,297 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:49:40,032 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:49:40,038 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:49:40,040 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:49:47,206 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:49:47,211 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:49:47,213 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:51:49,840 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:51:49,847 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:51:49,849 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:51:55,736 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:51:55,740 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:51:55,741 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:52:02,061 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:52:02,064 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:52:02,065 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 17:59:27,031 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 17:59:27,038 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 17:59:27,039 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 18:04:48,601 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 18:04:48,615 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 18:04:48,616 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 18:16:49,534 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 18:16:49,541 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 18:16:49,542 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 18:51:26,643 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 18:51:26,677 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 18:51:26,679 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 18:51:54,316 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 18:51:54,320 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 18:51:54,321 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 18:52:09,331 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 18:52:09,343 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 18:52:09,345 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 18:56:13,919 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 18:56:13,921 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 18:56:13,922 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 18:57:18,504 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 18:57:18,517 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 18:57:18,519 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 18:57:32,276 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 18:57:32,285 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 18:57:32,287 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 19:13:59,093 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 19:13:59,101 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 19:13:59,102 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 19:14:17,664 [Worker-132: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ecommerce:0.0.1-SNAPSHOT @ /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/pom.xml.
+2023-03-19 19:14:17,899 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 19:14:17,899 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 19:14:17,901 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 19:14:19,104 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.15/spring-beans-5.3.15-sources.jar
+2023-03-19 19:14:19,362 [Worker-130: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.15/spring-beans-5.3.15-sources.jar
+2023-03-19 19:14:19,387 [Worker-130: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.3.15
+2023-03-19 19:14:19,945 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 19:14:19,969 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 19:14:19,970 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 19:14:39,328 [Worker-133: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ecommerce:0.0.1-SNAPSHOT @ /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/pom.xml.
+2023-03-19 19:14:39,469 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 19:14:39,469 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 19:14:39,471 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 19:14:40,666 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 19:14:40,708 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 19:14:40,710 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 19:15:37,049 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 19:15:37,057 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 19:15:37,058 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 19:16:41,984 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 19:16:41,986 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 19:16:41,989 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 19:22:43,636 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 19:22:43,645 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 19:22:43,646 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-19 19:22:51,442 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 19:22:51,449 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 19:22:51,450 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-20 10:06:11,268 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-20 12:05:15,739 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-20 12:05:15,829 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-20 12:05:15,832 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-20 12:05:21,104 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-20 12:05:21,128 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-20 12:05:21,130 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-20 16:15:59,432 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-20 16:15:59,465 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-20 16:15:59,468 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 08:37:01,889 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-21 10:50:37,845 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-21 11:24:55,354 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:24:55,378 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:24:55,387 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 11:33:51,737 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:33:51,768 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:33:51,769 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 11:34:13,161 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:34:13,166 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:34:13,168 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 11:34:37,417 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:34:37,419 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:34:37,421 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 11:39:26,527 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:39:26,540 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:39:26,543 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 11:44:52,926 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:44:52,932 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:44:52,934 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 11:45:11,646 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:45:11,656 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:45:11,658 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 11:45:19,972 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:45:19,978 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:45:19,981 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 11:45:32,276 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:45:32,280 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:45:32,284 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 11:45:57,517 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:45:57,522 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:45:57,523 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 11:48:57,159 [Worker-29: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:230)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:574)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:474)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:360)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:313)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:149)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:196)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1020)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:247)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:392)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:395)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:506)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:454)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:536)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependency' (position: START_TAG seen ...<dependency>\n\t\t\t\n\t\t<dependency>... @32:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:228)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependency' (position: START_TAG seen ...<dependency>\n\t\t\t\n\t\t<dependency>... @32:15) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependency(MavenXpp3Reader.java:1402)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2239)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 26 common frames omitted
+2023-03-21 11:48:58,363 [Worker-36: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:230)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:574)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:474)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:360)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:313)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:149)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:196)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1020)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:247)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:392)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:395)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:506)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:454)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:536)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependency' (position: START_TAG seen ...<dependency>\n\t\t\t\n\t\t<dependency>... @32:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:228)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependency' (position: START_TAG seen ...<dependency>\n\t\t\t\n\t\t<dependency>... @32:15) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependency(MavenXpp3Reader.java:1402)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2239)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 26 common frames omitted
+2023-03-21 11:49:04,883 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ecommerce:0.0.1-SNAPSHOT @ /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/pom.xml.
+2023-03-21 11:49:05,064 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:49:05,069 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:49:05,071 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 11:49:06,280 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.0.4/spring-boot-starter-validation-3.0.4-sources.jar
+2023-03-21 11:49:06,330 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.0.4/spring-boot-starter-validation-3.0.4-sources.jar
+2023-03-21 11:49:06,331 [Worker-29: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-validation:3.0.4
+2023-03-21 11:49:06,559 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:49:06,559 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:49:06,563 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 11:49:56,337 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:49:56,348 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:49:56,350 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 11:51:29,315 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:51:29,322 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:51:29,323 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 11:51:52,822 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:51:52,829 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:51:52,831 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:05:12,285 [Worker-59: Launching EcommerceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:05:12,333 [Worker-59: Launching EcommerceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:05:12,343 [Worker-59: Launching EcommerceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:09:35,595 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-21 12:10:23,076 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:10:23,090 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:10:23,093 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:10:42,546 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:10:42,547 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:10:42,549 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:10:55,014 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:10:55,015 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:10:55,017 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:11:09,582 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:11:09,586 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:11:09,588 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:15:16,775 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:15:16,783 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:15:16,785 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:15:31,945 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:15:31,949 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:15:31,950 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:15:44,469 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:15:44,477 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:15:44,479 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:16:45,195 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:16:45,205 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:16:45,209 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:17:48,130 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:17:48,142 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:17:48,144 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:19:39,109 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:19:39,124 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:19:39,128 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:20:02,075 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.12; built: 2022-09-14T01:54:40.076Z; git: 408d0139887e27a57b54ed52e2d92a36731a7e88; jvm 17.0.6+10
+2023-03-21 12:20:02,092 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-03-21 12:20:02,106 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@8cd09fb{/help,null,AVAILABLE}
+2023-03-21 12:20:02,115 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@40d80fe0{HTTP/1.1, (http/1.1)}{127.0.0.1:51653}
+2023-03-21 12:20:02,127 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@70c0f57f{STARTING}[10.0.12,sto=0] @631636ms
+2023-03-21 12:20:08,350 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:20:08,361 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:20:08,363 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:20:28,615 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:20:28,621 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:20:28,624 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:20:44,485 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:20:44,497 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:20:44,501 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:21:50,860 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:21:50,868 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:21:50,872 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:22:40,318 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:22:40,339 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:22:40,341 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:22:56,665 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:22:56,673 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:22:56,674 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:23:58,194 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:23:58,205 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:23:58,206 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:24:03,856 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:24:03,863 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:24:03,865 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:26:43,413 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:26:43,425 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:26:43,429 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:26:55,201 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:26:55,209 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:26:55,210 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:27:30,344 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:27:30,355 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:27:30,357 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:27:52,826 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:27:52,831 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:27:52,832 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:27:56,296 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:27:56,305 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:27:56,308 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:28:46,526 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:28:46,532 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:28:46,533 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:29:06,410 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:29:06,424 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:29:06,426 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:30:28,528 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:30:28,541 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:30:28,543 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:30:36,912 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:30:36,923 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:30:36,924 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:30:58,791 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:30:58,796 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:30:58,797 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:31:04,681 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:31:04,706 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:31:04,708 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:33:36,457 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:33:36,462 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:33:36,464 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:34:13,530 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:34:13,535 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:34:13,537 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:34:47,271 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:34:47,276 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:34:47,278 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:39:20,648 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:39:20,665 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:39:20,667 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:43:13,679 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:43:13,692 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:43:13,693 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:44:07,268 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:44:07,273 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:44:07,274 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:53:06,820 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:53:06,832 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:53:06,833 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:53:29,669 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:53:29,679 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:53:29,681 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:54:30,665 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:54:30,672 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:54:30,673 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:54:57,275 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:54:57,281 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:54:57,282 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 12:57:11,498 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:57:11,507 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:57:11,509 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 13:01:04,807 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:01:04,862 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:01:04,864 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 13:02:23,551 [Worker-57: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ecommerce:0.0.1-SNAPSHOT @ /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/pom.xml.
+2023-03-21 13:02:23,747 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:02:23,747 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:02:23,749 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 13:06:20,606 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:06:20,619 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:06:20,621 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 13:06:21,152 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@70c0f57f{STOPPING}[10.0.12,sto=0]
+2023-03-21 13:06:21,157 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@40d80fe0{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-03-21 13:06:21,164 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@8cd09fb{/help,null,STOPPED}
+2023-03-21 13:07:21,556 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-21 13:08:05,226 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:08:05,266 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:08:05,276 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 13:08:27,082 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:08:27,087 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:08:27,089 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 13:09:05,147 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:09:05,154 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:09:05,157 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 13:09:26,829 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:09:26,835 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:09:26,837 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 13:09:59,115 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:09:59,124 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:09:59,125 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 13:10:18,594 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:10:18,608 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:10:18,610 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 13:10:49,518 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:10:49,525 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:10:49,527 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 13:11:02,283 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:11:02,285 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:11:02,289 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 13:11:25,554 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:11:25,559 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:11:25,560 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 13:12:21,859 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:12:21,864 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:12:21,865 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 13:12:34,373 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:12:34,395 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:12:34,397 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 13:13:06,385 [Worker-9: Launching EcommerceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:13:06,415 [Worker-9: Launching EcommerceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:13:06,417 [Worker-9: Launching EcommerceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto/ecommerce/src/test/resources
+2023-03-21 14:29:56,643 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-21 14:32:39,296 [Worker-13: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ecommerce:0.0.1-SNAPSHOT @ /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto-copia/ecommerce/pom.xml.
+2023-03-21 14:32:39,412 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ecommerce:0.0.1-SNAPSHOT @ /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto-copia/ecommerce/pom.xml.
+2023-03-21 14:32:39,713 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 14:32:39,732 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 14:32:39,734 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto-copia/ecommerce/src/test/resources
+2023-03-21 14:32:40,963 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ecommerce:0.0.1-SNAPSHOT @ /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto-copia/ecommerce/pom.xml.
+2023-03-21 14:32:41,208 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 14:32:41,208 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 14:32:41,210 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto-copia/ecommerce/src/test/resources
+2023-03-21 14:35:42,352 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 14:35:42,373 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 14:35:42,377 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto-copia/ecommerce/src/test/resources
+2023-03-21 14:36:06,801 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 14:36:06,836 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 14:36:06,839 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto-copia/ecommerce/src/test/resources
+2023-03-21 14:39:56,960 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 14:39:57,009 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 14:39:57,013 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/camilahess/Desktop/CURSO EOI JAVA 22-23/ws_proyecto-copia/ecommerce/src/test/resources
