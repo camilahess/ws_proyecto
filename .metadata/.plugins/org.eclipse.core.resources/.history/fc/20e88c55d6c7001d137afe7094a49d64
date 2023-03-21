@@ -1,0 +1,5 @@
+package com.example.ecommerce.usuarios.dto;
+
+public class UsuarioInsertDto {
+
+}

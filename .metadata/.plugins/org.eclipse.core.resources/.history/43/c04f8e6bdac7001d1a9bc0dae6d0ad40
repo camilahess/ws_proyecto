@@ -1,0 +1,5 @@
+package com.example.ecommerce.auth.dto;
+
+public class RespuestaTokenDto {
+
+}

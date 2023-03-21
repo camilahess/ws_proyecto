@@ -1,0 +1,16 @@
+package com.example.ecommerce.categorias;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+
+
+public interface CategoriasRepository extends JpaRepository<Categoria, Integer> {
+
+    List<CategoriaSinProductos> findByNameContaining(String nombre);
+
+    // Devuelve todas las categorías
+    List<CategoryWithoutProducts> findBy();
+
+    Optional<CategoryWithProducts> findCategoryById(int id);
+	
+}

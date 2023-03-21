@@ -1,0 +1,6 @@
+package com.example.ecommerce.productos.proyecciones;
+
+//Proyección para que el repository pueda devolver un producto sin categoría asociada
+public class ProductoSinCategoria {
+
+}

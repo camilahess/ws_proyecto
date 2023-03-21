@@ -1,0 +1,5 @@
+package com.example.ecommerce.productos.proyecciones;
+
+public interface ProductoConCategoria {
+
+}

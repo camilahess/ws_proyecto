@@ -1,0 +1,36 @@
+package com.example.ecommerce.productos;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import lombok.RequiredArgsConstructor;
+
+@RestController
+@RequestMapping("/productos")
+@RequiredArgsConstructor
+public class ProductosController {
+
+	
+    private final ProductosService produService;
+
+    @GetMapping
+    public List<ProductWithoutCategory> getProducts(@RequestParam int category) {
+        return productsService.getProducts(category);
+    }
+
+    @GetMapping("/{id}")
+    public ProductWithCategory getProduct(@PathVariable int id) {
+        return productsService.getProduct(id);
+    }
+
+    @PostMapping()
+    public Product insertProduct(@RequestBody Product p) {
+        return productsService.insertProduct(p, p.getCategory().getId());
+    }
+
+    @DeleteMapping("/{idProd}")
+    @ResponseStatus(HttpStatus.NO_CONTENT)
+    public void deleteProduct(@PathVariable int idProd) {
+        productsService.deleteProduct(idProd);
+    }
+}

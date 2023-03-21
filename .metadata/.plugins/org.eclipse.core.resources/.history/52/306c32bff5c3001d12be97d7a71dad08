@@ -1,0 +1,16 @@
+package com.example.ecommerce.categorias;
+
+import org.springframework.stereotype.Service;
+
+import lombok.RequiredArgsConstructor;
+
+@Service
+@RequiredArgsConstructor
+public class CategoriasService {
+
+	 private final CategoriasRepository catRepository;
+	 
+	 
+	 
+}
+

@@ -1,0 +1,47 @@
+package com.example.ecommerce.productos;
+
+import java.util.List;
+
+import org.springframework.http.HttpStatus;
+import org.springframework.stereotype.Service;
+import org.springframework.web.server.ResponseStatusException;
+
+import com.example.ecommerce.categorias.Categoria;
+import com.example.ecommerce.categorias.CategoriasRepository;
+import com.example.ecommerce.productos.proyecciones.ProductoConCategoria;
+import com.example.ecommerce.productos.proyecciones.ProductoSinCategoria;
+
+import lombok.RequiredArgsConstructor;
+
+
+@Service
+@RequiredArgsConstructor
+public class ProductosService {
+
+    private final ProductosRepository produRepository;
+    private final CategoriasRepository catRepository;
+
+        
+    public List<ProductoSinCategoria> getProducts(int idCat) {
+        return produRepository.findByCategory(idCat);
+    }
+
+    public ProductoConCategoria getProduct(int idProd) {
+        return produRepository.findProductById(idProd).orElseThrow(
+            () -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Producto no encontrado")
+        );
+    }
+
+    public Producto insertProduct(Producto p, int idCat) {
+        Categoria c = catRepository.findById(idCat).orElseThrow(
+            () -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Categoria no encontrada")
+        );
+        c.setProductos(null);
+        p.setCategoria(c);
+        return produRepository.save(p);
+    }
+
+    public void deleteProduct(int id) {
+        produRepository.deleteById(id);
+    }
+}
