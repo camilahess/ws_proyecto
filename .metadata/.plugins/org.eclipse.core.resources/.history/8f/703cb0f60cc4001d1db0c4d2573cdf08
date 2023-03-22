@@ -1,9 +1,0 @@
-package com.example.ecommerce.categorias.proyecciones;
-
-public interface CategoriaConProductos {
-
-	int getId();
-    String getNombre();
-   // List<ProductWithoutCategory> getProducts();
-    
-}

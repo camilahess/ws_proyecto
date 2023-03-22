@@ -1,7 +1,0 @@
-package com.example.ecommerce.categorias.proyecciones;
-
-public interface categoriaSinProductos {
-
-	int getId();
-    String getName();
-}

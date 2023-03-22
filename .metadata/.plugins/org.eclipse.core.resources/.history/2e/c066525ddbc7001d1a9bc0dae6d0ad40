@@ -1,5 +1,0 @@
-package com.example.ecommerce.seguridad;
-
-public class JWTAuthorizationFilter {
-
-}

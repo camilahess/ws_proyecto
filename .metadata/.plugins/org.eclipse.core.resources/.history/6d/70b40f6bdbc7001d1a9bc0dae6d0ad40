@@ -1,7 +1,0 @@
-package com.example.ecommerce.seguridad;
-
-import org.springframework.web.filter.OncePerRequestFilter;
-
-public class JWTAuthorizationFilter extends OncePerRequestFilter  {
-
-}
